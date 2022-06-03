@@ -32,4 +32,5 @@ async function printCaps(networkObject) {
     }
 }
 
+// Exports
 module.exports = { getUseableCap, printCaps }
